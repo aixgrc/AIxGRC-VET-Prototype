@@ -1,26 +1,3 @@
-#!/usr/bin/env python3
-"""
-AIxGRC-VET  --  Final Python Prototype
-=====================================
-AI Governance, Risk & Compliance Platform
-Healthcare AI Workforce Readiness Assessment
-
-Course:  MPIM 6750  --  Developing AI Solutions
-School:  Georgetown University, MPS Applied Intelligence
-Author:  Cindy
-
-HOW TO RUN
-----------
-1. Create and activate the conda environment:
-       conda env create -f environment.yml
-       conda activate aixgrc-vet
-
-2. Open in Jupyter:
-       jupyter notebook
-
-   Then: Kernel -> Restart & Run All
-"""
-
 # =============================================================================
 # IMPORTS
 # =============================================================================
